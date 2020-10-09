@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="A:\Lab-physics-colliders" t="IncludeFlat">
+      <e p="Lab-physics-colliders.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\osars\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\osars\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Lab-physics-colliders.-1290418035.00" t="ExcludeRecursive" />
+    <e p="C:\Users\osars\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\osars\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+  </component>
+</project>
